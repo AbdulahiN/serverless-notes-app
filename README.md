@@ -24,6 +24,4 @@ This Serverless Notes Management Application serves as a practical example of my
 
 ## Serverless Infrastructure Diagram
 
-(![image](https://github.com/AbdulahiN/serverless-notes-app-lambda-dynamodb/blob/main/diagram.png)
-
-
+![image](https://github.com/AbdulahiN/serverless-notes-app-lambda-dynamodb/blob/main/diagram.png)
